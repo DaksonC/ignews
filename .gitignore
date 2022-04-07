@@ -1,5 +1,7 @@
 
 .next
+.slicemachine
+customtype
 node_modules
 .env.local
 
