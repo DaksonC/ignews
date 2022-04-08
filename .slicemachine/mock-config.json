@@ -1,6 +1,7 @@
 {
   "_cts": {
-    "myPost": {}
+    "myPost": {},
+    "post": {}
   },
   "slices": {
     "Post": {}
